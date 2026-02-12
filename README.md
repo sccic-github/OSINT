@@ -4,4 +4,5 @@ What is the name of this building?
 
 How about the address of the building?
 
-Use the address of the building (just the numbers, no spaces or text) to unlock the zipped folder and continue on to the rest of the challenge.
+Append the name and address of the building onto a cl1p site to continue on to the rest of the challenge.
+HINT: https://cl1p.net/F*******_S*******_4*** You'll need to fill in the stars on your own. If you see a page that says "Paste in anything you want.", you're not in the right place...
